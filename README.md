@@ -29,9 +29,8 @@ Our harmonization approach involves recoding data specific to each survey and co
 - **Survey Limitations**: Our work relies on surveys representative at the national level and, at most, the ADM1 subnational level, which may underrepresent some ethnic groups.
 - **Complexity of Ethnicity**: Ethnicity is a multifaceted and evolving concept. For practical reasons, our methodology confines ethnicity to self-identification, aligning with household survey measurements.
 
-## Contact and Access
-For more details on the project or to request access to the encrypted scripts, please refer to the [LICENSE.md](LICENSE.md) file. 
+## Support
+For questions or assistance, please open an issue in this repository or contact Paola Ballon (pballon@worldbank.org) and/or Omar Alburqueque (oalburquequechav@worldbank.org).
 
-### Project Creators
-- **Paola Ballon** (pballon@worldbank.org)
-- **Omar Alburqueque** (oalburquequchav@worldbank.org)
+## Contributing
+We welcome contributions to improve the replication process. If you have suggestions, please open an issue or submit a pull request.
