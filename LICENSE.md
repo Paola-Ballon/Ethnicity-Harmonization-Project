@@ -1,4 +1,4 @@
-# Custom License for [Project Name]
+# Custom License for the Ethnicity Harmonization Project
 
 This project includes encrypted source code components, which are protected under the following terms and conditions:
 
