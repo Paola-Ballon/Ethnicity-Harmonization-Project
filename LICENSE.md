@@ -7,7 +7,7 @@ Permission is hereby granted to use, copy, modify, and distribute the provided s
 
 ## Encrypted Components
 The encrypted components are clearly identified within the project and are not publicly available in their readable form.
-Access to the full source code of these components may be requested by contacting the project creators at [creator's contact].
+Access to the full source code of these components may be requested by contacting the project creators.
 
 ## Access Conditions
 Access to the source code of the encrypted components will be granted at the discretion of the project creators, Paola Ballon and/or Omar Alburqueque.
